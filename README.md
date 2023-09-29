@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arnav Gupta</h1>
 <h3 align="center">A passionate MERN Developer</h3>
 
-- 🔭 I’m currently working on **Full stack e-commerce Website**
+- 🔭 I’m currently working on **Spotify Clone using MERN**
 
 - 🌱 I’m currently learning **MongoDB ,ReactJS**
 
