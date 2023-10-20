@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Spotify Clone using MERN**
 
-- 🌱 I’m currently learning **MongoDB ,ReactJS**
+- 🌱 Currently doing work on **ReactJS**
 
 - 📫 How to reach me **arnavgupta295@gmail.com**
 
