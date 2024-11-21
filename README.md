@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arnav Gupta</h1>
 <h3 align="center">A passionate MERN Developer</h3>
 
-- 🌱 Currently doing work on **BlockChain**
+- 🌱 Learning New Stuff
 
 - 📫 How to reach me **arnavgupta295@gmail.com**
 
