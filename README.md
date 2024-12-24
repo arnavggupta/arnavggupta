@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arnav Gupta</h1>
-<h3 align="center">A passionate MERN Developer</h3>
+<h3 align="center">A passionate FULL STACK Developer</h3>
 
 - 🌱 Learning New Stuff
 
